@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "rarecoinapp",
+    "icon": "./coin.png",
+    "version": "1.0.0",
+    "slug": "rarecoinapp",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "com.abraracs.rarecoinapp"
+    },
+    "android": {
+      "package": "com.abraracs.rarecoinapp"
+   }
+  }
+}
